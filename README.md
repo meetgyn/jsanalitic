@@ -5,8 +5,8 @@ Este repositório contém um script em Python para análises rápidas de arquivo
 
     Clone o repositório:
 
-git clone https://github.com/seuusuario/seurepositorio.git
-cd seurepositorio
+git clone https://github.com/meetgyn/jsanalitic.git
+cd jsanalitic
 
 Crie uma pasta para armazenar os resultados: O script salvará os resultados em uma pasta local. Crie-a com:
 
